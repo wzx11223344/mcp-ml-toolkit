@@ -1,0 +1,5 @@
+mcp>=1.0.0
+scikit-learn
+numpy
+pandas
+scipy
